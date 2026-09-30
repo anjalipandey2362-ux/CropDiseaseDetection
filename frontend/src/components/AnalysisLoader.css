@@ -1,0 +1,139 @@
+.loader-overlay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+.loader-card {
+  background: white;
+  border: 1px solid var(--border-green);
+  border-radius: 28px;
+  padding: 40px 32px;
+  width: 100%;
+  max-width: 540px;
+  box-shadow: var(--shadow-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 16px;
+}
+
+.loader-spinner-wrapper {
+  position: relative;
+  width: 90px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pulse-ring {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: rgba(34, 197, 94, 0.15);
+  animation: pulseRing 2s infinite ease-out;
+}
+
+@keyframes pulseRing {
+  0% { transform: scale(0.8); opacity: 0.8; }
+  100% { transform: scale(1.4); opacity: 0; }
+}
+
+.spinner-icon {
+  color: var(--primary);
+}
+
+.spinner-emoji {
+  position: absolute;
+  font-size: 1.6rem;
+}
+
+.loader-title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--text-main);
+}
+
+.loader-subtitle {
+  font-size: 0.92rem;
+  color: var(--text-muted);
+}
+
+.loader-steps-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+  margin-top: 12px;
+  text-align: left;
+}
+
+.loader-step-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 16px;
+  border-radius: 12px;
+  background: var(--bg-gradient);
+  border: 1px solid var(--border);
+  transition: all 0.3s ease;
+  opacity: 0.6;
+}
+
+.loader-step-item.active {
+  opacity: 1;
+  background: var(--primary-subtle);
+  border-color: var(--border-green);
+  box-shadow: var(--shadow-sm);
+}
+
+.loader-step-item.done {
+  opacity: 1;
+  background: white;
+  border-color: var(--border-green);
+}
+
+.step-icon-done {
+  color: var(--primary);
+}
+
+.step-icon-active {
+  color: var(--accent);
+}
+
+.step-icon-pending {
+  color: var(--text-light);
+}
+
+.step-text-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-main);
+}
+
+.step-emoji {
+  font-size: 1.1rem;
+}
+
+.loader-progress-bar-track {
+  width: 100%;
+  height: 8px;
+  background: var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-top: 12px;
+}
+
+.loader-progress-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #22c55e, #15803d);
+  border-radius: 4px;
+  transition: width 0.4s ease-out;
+}

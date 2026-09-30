@@ -1,0 +1,9 @@
+{
+  "model": "EfficientNet-B0",
+  "num_classes": 38,
+  "image_size": 224,
+  "validation_accuracy": 0.9834954007884362,
+  "epoch": 10,
+  "framework": "PyTorch",
+  "dataset": "PlantVillage"
+}

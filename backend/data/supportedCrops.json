@@ -1,0 +1,25 @@
+{
+  "supportedDiseaseCrops": [
+    { "id": "wheat", "name": "Wheat", "hindiName": "गेहूं", "diseaseModel": "wheat" },
+    { "id": "rice", "name": "Rice / Paddy", "hindiName": "धान / चावल", "diseaseModel": "rice" },
+    { "id": "sugarcane", "name": "Sugarcane", "hindiName": "गन्ना", "diseaseModel": "sugarcane" },
+    { "id": "potato", "name": "Potato", "hindiName": "आलू", "diseaseModel": "potato" },
+    { "id": "maize", "name": "Maize", "hindiName": "मक्का", "diseaseModel": "maize" },
+    { "id": "mustard", "name": "Mustard", "hindiName": "सरसों", "diseaseModel": "mustard" },
+    { "id": "chickpea", "name": "Chickpea / Gram", "hindiName": "चना", "diseaseModel": "chickpea" },
+    { "id": "pigeon_pea", "name": "Pigeon Pea / Arhar", "hindiName": "अरहर", "diseaseModel": "pigeon_pea" },
+    { "id": "lentil", "name": "Lentil", "hindiName": "मसूर", "diseaseModel": "lentil" },
+    { "id": "pea", "name": "Pea", "hindiName": "मटर", "diseaseModel": "pea" }
+  ],
+  "outOfScopeCrops": [
+    { "id": "apple", "name": "Apple", "hindiName": "सेब", "icon": "🍎" },
+    { "id": "tomato", "name": "Tomato", "hindiName": "टमाटर", "icon": "🍅" },
+    { "id": "chili", "name": "Chili", "hindiName": "मिर्च", "icon": "🌶️" },
+    { "id": "brinjal", "name": "Brinjal", "hindiName": "बैंगन", "icon": "🍆" },
+    { "id": "okra", "name": "Okra", "hindiName": "भिंडी", "icon": "🥒" },
+    { "id": "mango", "name": "Mango", "hindiName": "आम", "icon": "🥭" },
+    { "id": "guava", "name": "Guava", "hindiName": "अमरूद", "icon": "🍈" },
+    { "id": "groundnut", "name": "Groundnut", "hindiName": "मूंगफली", "icon": "🥜" }
+  ],
+  "rejectionClasses": ["Non-plant", "Unknown"]
+}

@@ -1,0 +1,917 @@
+[
+  {
+    "id": "apple_scab",
+    "crop": "Apple",
+    "cropHindi": "सेब",
+    "disease": "Apple Scab (Venturia inaequalis)",
+    "diseaseHindi": "सेब का स्कैब रोग",
+    "severity": "Moderate",
+    "symptoms": [
+      "Olive-green to black velvety spots on leaves and fruit surface",
+      "Deformed, cracked fruit with dark corky lesions",
+      "Premature leaf drop leading to defoliation"
+    ],
+    "symptomsHindi": [
+      "पत्तियों और फलों की सतह पर जैतूनी-हरे से काले मखमली धब्बे",
+      "काले और फटे हुए धब्बों के साथ विकृत फल",
+      "पत्तियों का समय से पहले गिरना"
+    ],
+    "culturalManagement": [
+      "Prune canopy trees to improve air circulation and sunlight penetration",
+      "Rake and destroy fallen leaf debris in autumn to remove overwintering fungal spores",
+      "Avoid overhead irrigation that keeps leaves wet for prolonged periods"
+    ],
+    "prevention": [
+      "Plant scab-resistant apple cultivars",
+      "Apply protective copper or bio-fungicide sprays at green tip stage"
+    ]
+  },
+  {
+    "id": "apple_black_rot",
+    "crop": "Apple",
+    "cropHindi": "सेब",
+    "disease": "Black Rot (Botryosphaeria obtusa)",
+    "diseaseHindi": "सेब का ब्लैक रॉट (काला सड़न)",
+    "severity": "High",
+    "symptoms": [
+      "Frog-eye leaf spots with dark purple margins and tan centers",
+      "Rotted, black mummified apples clinging to branches",
+      "Reddish-brown sunken cankers on limbs and trunks"
+    ],
+    "symptomsHindi": [
+      "मेंढक की आँख जैसे धब्बे जिनका किनारा बैंगनी और केंद्र भूरा होता है",
+      "शाखाओं पर लटके हुए काले सूखे सड़े फल",
+      "शाखाओं पर लाल-भूरे धंसे हुए घाव (कैंकर)"
+    ],
+    "culturalManagement": [
+      "Prune out dead wood, cankers, and mummified fruit during winter dormant season",
+      "Dispose of pruned branches outside the orchard immediately",
+      "Maintain tree vigor through balanced nutrition"
+    ],
+    "prevention": [
+      "Avoid physical injury to bark and developing fruits",
+      "Sanitize pruning tools between cuts"
+    ]
+  },
+  {
+    "id": "apple_cedar_apple_rust",
+    "crop": "Apple",
+    "cropHindi": "सेब",
+    "disease": "Cedar Apple Rust (Gymnosporangium juniperi-virginianae)",
+    "diseaseHindi": "सेब का सीडार रस्ट",
+    "severity": "Moderate",
+    "symptoms": [
+      "Bright yellow-orange spots on upper leaf surfaces in spring",
+      "Small tube-like fruiting structures (aecia) on lower leaf undersides",
+      "Premature leaf drop and reduced fruit quality"
+    ],
+    "symptomsHindi": [
+      "वसन्त ऋतु में पत्तियों की ऊपरी सतह पर चमकीले पीले-नारंगी धब्बे",
+      "पत्ती के निचले हिस्से पर छोटी नली जैसी संरचनाएं",
+      "पत्तियों का समय से पहले गिरना"
+    ],
+    "culturalManagement": [
+      "Remove nearby eastern red cedar / juniper trees within 1-2 miles if feasible",
+      "Prune cedar galls from ornamental junipers in early spring before rain"
+    ],
+    "prevention": [
+      "Plant rust-resistant apple varieties",
+      "Inspect orchard regularly during wet spring conditions"
+    ]
+  },
+  {
+    "id": "apple_healthy",
+    "crop": "Apple",
+    "cropHindi": "सेब",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं पाया गया)",
+    "severity": "None",
+    "symptoms": [
+      "Vibrant uniform green leaves with smooth intact margins",
+      "Absence of fungal spots, chlorosis, or necrotic spots",
+      "Vigorous foliage development"
+    ],
+    "symptomsHindi": [
+      "एकसमान हरी पत्तियां",
+      "किसी भी प्रकार के फफूंद या धब्बों की अनुपस्थिति",
+      "स्वस्थ और सामान्य विकास"
+    ],
+    "culturalManagement": [
+      "Maintain routine pruning, weeding, and balanced fertilizing",
+      "Ensure proper drip irrigation during dry summer months"
+    ],
+    "prevention": [
+      "Inspect foliage weekly for early pest or disease symptoms"
+    ]
+  },
+  {
+    "id": "blueberry_healthy",
+    "crop": "Blueberry",
+    "cropHindi": "ब्लूबेरी",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Uniform green leaves without spots or wilting"
+    ],
+    "symptomsHindi": [
+      "एकसमान हरी पत्तियां"
+    ],
+    "culturalManagement": [
+      "Maintain acidic soil pH (4.5-5.5) and organic mulch."
+    ],
+    "prevention": [
+      "Regular canopy monitoring."
+    ]
+  },
+  {
+    "id": "cherry_powdery_mildew",
+    "crop": "Cherry",
+    "cropHindi": "चेरी",
+    "disease": "Powdery Mildew (Podosphaera clandestina)",
+    "diseaseHindi": "चेरी का पाउडरी मिल्ड्यू (चूर्णी आसिता)",
+    "severity": "Moderate",
+    "symptoms": [
+      "White powdery fungal coating on leaves and young shoots",
+      "Curled, distorted leaves with stunted terminal growth",
+      "Reddening or russeting of young developing fruits"
+    ],
+    "symptomsHindi": [
+      "पत्तियों और नई टहनियों पर सफेद पाउडर जैसा फफूंद",
+      "मुड़ी हुई और सिकुड़ी पत्तियां",
+      "फलों की सतह पर लाल या भूरे धब्बे"
+    ],
+    "culturalManagement": [
+      "Prune overcrowded inner branches to enhance airflow",
+      "Avoid excess nitrogen fertilization that causes succulent shoot growth"
+    ],
+    "prevention": [
+      "Plant resistant cultivars where available",
+      "Apply neem-based or sulfur sprays early upon first symptom appearance"
+    ]
+  },
+  {
+    "id": "cherry_healthy",
+    "crop": "Cherry",
+    "cropHindi": "चेरी",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Clean, intact dark green foliage"
+    ],
+    "symptomsHindi": [
+      "साफ और गहरी हरी पत्तियां"
+    ],
+    "culturalManagement": [
+      "Standard pruning and watering."
+    ],
+    "prevention": [
+      "Routine inspection."
+    ]
+  },
+  {
+    "id": "corn_gray_leaf_spot",
+    "crop": "Corn (Maize)",
+    "cropHindi": "मक्का",
+    "disease": "Gray Leaf Spot (Cercospora zeae-maydis)",
+    "diseaseHindi": "मक्के का ग्रे लीफ स्पॉट",
+    "severity": "Moderate",
+    "symptoms": [
+      "Small tan rectangular lesions restricted between leaf veins",
+      "Lesions turn grayish-tan with distinct parallel borders",
+      "Severe blighting leads to premature leaf drying and lodging"
+    ],
+    "symptomsHindi": [
+      "पत्तियों की नसों के बीच सीमित आयताकार भूरे-ग्रे धब्बे",
+      "धब्बे बड़े होकर सलेटी रंग के हो जाते हैं",
+      "पत्तियां जल्दी सूख जाती हैं"
+    ],
+    "culturalManagement": [
+      "Plow under infected crop residues post harvest",
+      "Practice 2-year crop rotation with non-cereal crops"
+    ],
+    "prevention": [
+      "Sow tolerant corn hybrids",
+      "Ensure proper plant density for air movement"
+    ]
+  },
+  {
+    "id": "corn_common_rust",
+    "crop": "Corn (Maize)",
+    "cropHindi": "मक्का",
+    "disease": "Common Rust (Puccinia sorghi)",
+    "diseaseHindi": "मक्के का कॉमन रस्ट",
+    "severity": "Moderate",
+    "symptoms": [
+      "Cinnamon-brown circular to elongate pustules on upper and lower leaf surfaces",
+      "Powdery rust spores rub off on hands or clothing",
+      "Chlorosis and yellowing surrounding dense pustules"
+    ],
+    "symptomsHindi": [
+      "पत्तियों की दोनों सतहों पर दालचीनी जैसे भूरे रंग के उभरे हुए धब्बे",
+      "पाउडर जैसा रस्ट हाथ लगाने पर झड़ता है",
+      "धब्बों के आसपास पीलापन"
+    ],
+    "culturalManagement": [
+      "Avoid late planting to minimize high spore exposure",
+      "Destroy volunteer corn plants"
+    ],
+    "prevention": [
+      "Plant rust-resistant corn varieties",
+      "Monitor fields during cool, humid conditions"
+    ]
+  },
+  {
+    "id": "corn_northern_leaf_blight",
+    "crop": "Corn (Maize)",
+    "cropHindi": "मक्का",
+    "disease": "Northern Leaf Blight (Exserohilum turcicum)",
+    "diseaseHindi": "मक्के का उत्तरी पत्ती झुलसा",
+    "severity": "High",
+    "symptoms": [
+      "Long elliptical grayish-green cigar-shaped lesions (2.5 to 15 cm long)",
+      "Dark dark fungal spores visible in lesion centers during damp weather",
+      "Extensive leaf destruction reducing grain fill"
+    ],
+    "symptomsHindi": [
+      "सिगार के आकार के लंबे (2.5 से 15 सेमी) धूसर-हरे धब्बे",
+      "नम मौसम में धब्बों के बीच में काले बीजाणु",
+      "पत्तियों का व्यापक झुलसाव जिससे दानों का विकास रुकता है"
+    ],
+    "culturalManagement": [
+      "Incorporate crop residue into soil after harvest",
+      "Rotate with soybean or pulses"
+    ],
+    "prevention": [
+      "Utilize resistant hybrids with single-gene resistance"
+    ]
+  },
+  {
+    "id": "corn_healthy",
+    "crop": "Corn (Maize)",
+    "cropHindi": "मक्का",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Lush green undamaged leaf blades"
+    ],
+    "symptomsHindi": [
+      "हरी और स्वस्थ पत्तियां"
+    ],
+    "culturalManagement": [
+      "Balanced NPK application."
+    ],
+    "prevention": [
+      "Weekly scouting."
+    ]
+  },
+  {
+    "id": "grape_black_rot",
+    "crop": "Grape",
+    "cropHindi": "अंगूर",
+    "disease": "Black Rot (Guignardia bidwellii)",
+    "diseaseHindi": "अंगूर का ब्लैक रॉट (काला सड़न)",
+    "severity": "High",
+    "symptoms": [
+      "Small reddish-brown circular spots on leaves with dark borders",
+      "Infected berries turn purple, dry out, and transform into hard black mummies",
+      "Black specks (pycnidia) inside leaf lesions"
+    ],
+    "symptomsHindi": [
+      "पत्तियों पर लाल-भूरे गोल धब्बे जिनका किनारा गहरा होता है",
+      "अंगूर के दाने बैंगनी होकर सूख जाते हैं और काले ममी में बदल जाते हैं",
+      "धब्बों के भीतर काले छोटे बिंदु"
+    ],
+    "culturalManagement": [
+      "Prune mummified fruit clusters and infected canes during winter",
+      "Keep canopy open for sunlight and quick leaf drying"
+    ],
+    "prevention": [
+      "Plant in full sun with well-drained soil",
+      "Apply protective copper or organic sprays before bloom"
+    ]
+  },
+  {
+    "id": "grape_esca",
+    "crop": "Grape",
+    "cropHindi": "अंगूर",
+    "disease": "Esca / Black Measles (Phaeomoniella chlamydospora)",
+    "diseaseHindi": "अंगूर का एस्का (ब्लैक मीजल्स)",
+    "severity": "High",
+    "symptoms": [
+      "Interveinal yellowing and browning producing a distinctive 'tiger-stripe' leaf pattern",
+      "Small dark spots on berry skin (measles appearance)",
+      "Sudden apoplexy (wilting and dieback of vine shoots)"
+    ],
+    "symptomsHindi": [
+      "पत्तियों की नसों के बीच पीलापन और भूरापन जिससे 'बाघ-पट्टी' जैसा पैटर्न बनता है",
+      "अंगूर के दानों पर छोटे काले धब्बे",
+      "शाखाओं का अचानक मुरझाना और सूखना"
+    ],
+    "culturalManagement": [
+      "Remove severely infected vines or trunk parts",
+      "Protect large pruning wounds with wound sealants"
+    ],
+    "prevention": [
+      "Avoid stress and overcropping",
+      "Use clean certified nursery stock"
+    ]
+  },
+  {
+    "id": "grape_leaf_blight",
+    "crop": "Grape",
+    "cropHindi": "अंगूर",
+    "disease": "Leaf Blight (Pseudocercospora vitis)",
+    "diseaseHindi": "अंगूर का पत्ती झुलसा",
+    "severity": "Moderate",
+    "symptoms": [
+      "Irregular reddish-brown lesions on leaf surfaces",
+      "Dark olive velvety spore growth on leaf undersides",
+      "Premature defoliation reducing vine reserves"
+    ],
+    "symptomsHindi": [
+      "पत्तियों पर अनियमित लाल-भूरे धब्बे",
+      "पत्ती के निचले भाग पर मखमली जैतूनी फफूंद",
+      "पत्तियों का जल्दी गिरना"
+    ],
+    "culturalManagement": [
+      "Destroy fallen autumn leaves",
+      "Maintain adequate trellis spacing"
+    ],
+    "prevention": [
+      "Avoid frequent overhead canopy wetting"
+    ]
+  },
+  {
+    "id": "grape_healthy",
+    "crop": "Grape",
+    "cropHindi": "अंगूर",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Smooth intact vine foliage"
+    ],
+    "symptomsHindi": [
+      "स्वस्थ और साफ पत्तियां"
+    ],
+    "culturalManagement": [
+      "Regular canopy management."
+    ],
+    "prevention": [
+      "Routine inspection."
+    ]
+  },
+  {
+    "id": "orange_citrus_greening",
+    "crop": "Orange",
+    "cropHindi": "संतरा / मौसंबी",
+    "disease": "Citrus Greening / Huanglongbing (Candidatus Liberibacter)",
+    "diseaseHindi": "संतरे का सिट्रस ग्रीनिंग (HLB)",
+    "severity": "High",
+    "symptoms": [
+      "Asymmetric blotchy mottling and yellowing of leaf blades",
+      "Small, lopsided green fruits with bitter sour taste",
+      "Stunted trees with severe twig dieback"
+    ],
+    "symptomsHindi": [
+      "पत्तियों पर असमान पीलापन और धब्बे",
+      "छोटे, तिरछे हरे फल जो कड़वे और खट्टे होते हैं",
+      "पौधे की वृद्धि रुकना और टहनियों का सूखना"
+    ],
+    "culturalManagement": [
+      "Control Asian citrus psyllid insect vector using yellow sticky traps and bio-agents",
+      "Remove and destroy infected trees to prevent orchard-wide transmission"
+    ],
+    "prevention": [
+      "Plant certified disease-free tissue-cultured saplings",
+      "Apply micronutrient foliar sprays to maintain tree vigor"
+    ]
+  },
+  {
+    "id": "peach_bacterial_spot",
+    "crop": "Peach",
+    "cropHindi": "आड़ू",
+    "disease": "Bacterial Spot (Xanthomonas arboricola)",
+    "diseaseHindi": "आड़ू का बैक्टीरियल स्पॉट",
+    "severity": "Moderate",
+    "symptoms": [
+      "Small water-soaked purplish-brown angular leaf spots",
+      "Dead center drops out creating a 'shot-hole' appearance",
+      "Pitted, cracked fruit surfaces with gum oozing"
+    ],
+    "symptomsHindi": [
+      "पत्तियों पर बैंगनी-भूरे कोणीय धब्बे",
+      "धब्बे का केंद्र टूटकर गिर जाता है जिससे छलनी जैसी पत्ती (शॉट-होल) बनती है",
+      "फलों की सतह पर गड्ढे और गोंद जैसा रिसाव"
+    ],
+    "culturalManagement": [
+      "Avoid excessive nitrogen that leads to tender foliage",
+      "Maintain proper tree spacing for wind flow"
+    ],
+    "prevention": [
+      "Plant resistant peach varieties",
+      "Apply protective dormant copper treatments"
+    ]
+  },
+  {
+    "id": "peach_healthy",
+    "crop": "Peach",
+    "cropHindi": "आड़ू",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Clean green peach leaves without lesions"
+    ],
+    "symptomsHindi": [
+      "स्वस्थ और साफ पत्तियां"
+    ],
+    "culturalManagement": [
+      "Standard pruning."
+    ],
+    "prevention": [
+      "Regular monitoring."
+    ]
+  },
+  {
+    "id": "pepper_bacterial_spot",
+    "crop": "Pepper (Bell)",
+    "cropHindi": "शिमला मिर्च",
+    "disease": "Bacterial Spot (Xanthomonas euvesicatoria)",
+    "diseaseHindi": "शिमला मिर्च का बैक्टीरियल स्पॉट",
+    "severity": "High",
+    "symptoms": [
+      "Small water-soaked dark brown spots on leaves and stems",
+      "Leaves yellow and drop prematurely causing sunscald on fruit",
+      "Raised rough scab-like spots on bell peppers"
+    ],
+    "symptomsHindi": [
+      "पत्तियों और तनों पर छोटे पानी जैसे गहरे भूरे धब्बे",
+      "पत्तियां पीली होकर गिर जाती हैं",
+      "फलों पर खुरदरे धब्बे"
+    ],
+    "culturalManagement": [
+      "Rotate crops away from solanaceous plants for 2 years",
+      "Use drip irrigation instead of overhead sprinklers"
+    ],
+    "prevention": [
+      "Use certified disease-free seeds",
+      "Treat seeds with hot water or biocontrol agents"
+    ]
+  },
+  {
+    "id": "pepper_healthy",
+    "crop": "Pepper (Bell)",
+    "cropHindi": "शिमला मिर्च",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Vibrant intact green foliage"
+    ],
+    "symptomsHindi": [
+      "हरी और स्वस्थ पत्तियां"
+    ],
+    "culturalManagement": [
+      "Proper watering and weeding."
+    ],
+    "prevention": [
+      "Routine inspection."
+    ]
+  },
+  {
+    "id": "potato_early_blight",
+    "crop": "Potato",
+    "cropHindi": "आलू",
+    "disease": "Potato Early Blight (Alternaria solani)",
+    "diseaseHindi": "आलू का अगेता झुलसा",
+    "severity": "Moderate",
+    "symptoms": [
+      "Small dark brown to black spots with concentric rings (target board pattern)",
+      "Yellow chlorotic halo around leaf spots",
+      "Older lower foliage affected first"
+    ],
+    "symptomsHindi": [
+      "चक्राकार घेरों (लक्ष्य बोर्ड) वाले गहरे भूरे धब्बे",
+      "धब्बों के चारों ओर पीला घेरा",
+      "निचली पुरानी पत्तियां पहले संक्रमित"
+    ],
+    "culturalManagement": [
+      "Maintain adequate soil nitrogen and potassium fertility",
+      "Mulch soil to prevent spore splashing from soil onto lower leaves"
+    ],
+    "prevention": [
+      "Practice 3-year crop rotation",
+      "Plant healthy certified seed tubers"
+    ]
+  },
+  {
+    "id": "potato_late_blight",
+    "crop": "Potato",
+    "cropHindi": "आलू",
+    "disease": "Potato Late Blight (Phytophthora infestans)",
+    "diseaseHindi": "आलू का पिछैता झुलसा",
+    "severity": "High",
+    "symptoms": [
+      "Water-soaked irregular dark brown spots on leaves",
+      "White cottony fungal mold on leaf undersides in humid conditions",
+      "Rapid foliage destruction and tuber dry rot"
+    ],
+    "symptomsHindi": [
+      "पत्तियों पर नमी युक्त गहरे भूरे धब्बे",
+      "निचली सतह पर सफेद रुई जैसा फफूंद",
+      "फसल का तेजी से झुलसना और कंद सड़ना"
+    ],
+    "culturalManagement": [
+      "Avoid overhead sprinkler irrigation",
+      "Hill up soil around plants to shield tubers"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers",
+      "Plant resistant varieties like Kufri Pukhraj or Kufri Jyoti"
+    ]
+  },
+  {
+    "id": "potato_healthy",
+    "crop": "Potato",
+    "cropHindi": "आलू",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Lush green healthy potato vine foliage"
+    ],
+    "symptomsHindi": [
+      "स्वस्थ और हरी पत्तियां"
+    ],
+    "culturalManagement": [
+      "Proper hilling and watering."
+    ],
+    "prevention": [
+      "Regular field monitoring."
+    ]
+  },
+  {
+    "id": "raspberry_healthy",
+    "crop": "Raspberry",
+    "cropHindi": "रास्पबेरी",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Vigorous green leaves without lesions"
+    ],
+    "symptomsHindi": [
+      "स्वस्थ और हरी पत्तियां"
+    ],
+    "culturalManagement": [
+      "Prune old canes post harvest."
+    ],
+    "prevention": [
+      "Maintain weed-free beds."
+    ]
+  },
+  {
+    "id": "soybean_healthy",
+    "crop": "Soybean",
+    "cropHindi": "सोयाबीन",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Clean trifoliate green soybean foliage"
+    ],
+    "symptomsHindi": [
+      "स्वस्थ हरी पत्तियां"
+    ],
+    "culturalManagement": [
+      "Maintain balanced phosphorus and potassium."
+    ],
+    "prevention": [
+      "Scout for early leaf spots or caterpillars."
+    ]
+  },
+  {
+    "id": "squash_powdery_mildew",
+    "crop": "Squash",
+    "cropHindi": "कद्दू / स्क्वैश",
+    "disease": "Powdery Mildew (Podosphaera xanthii)",
+    "diseaseHindi": "कद्दू का पाउडरी मिल्ड्यू",
+    "severity": "Moderate",
+    "symptoms": [
+      "White powdery spots spreading over upper and lower leaf surfaces",
+      "Leaves turn yellow, dry out, and become brittle",
+      "Sunscald damage on fruits due to loss of foliage cover"
+    ],
+    "symptomsHindi": [
+      "पत्तियों की दोनों सतहों पर सफेद पाउडर जैसे धब्बे",
+      "पत्तियां पीली होकर सूख जाती हैं",
+      "धूप से फल खराब होना"
+    ],
+    "culturalManagement": [
+      "Plant in open sunny areas with ample air movement",
+      "Remove infected older leaves early"
+    ],
+    "prevention": [
+      "Plant resistant squash varieties",
+      "Spray neem oil or sulfur solutions preventatively"
+    ]
+  },
+  {
+    "id": "strawberry_leaf_scorch",
+    "crop": "Strawberry",
+    "cropHindi": "स्ट्रॉबेरी",
+    "disease": "Leaf Scorch (Diplocarpon earlianum)",
+    "diseaseHindi": "स्ट्रॉबेरी का लीफ स्कॉर्च",
+    "severity": "Moderate",
+    "symptoms": [
+      "Small dark purple spots on upper leaf surfaces",
+      "Spots enlarge and merge into purplish patches; center does not turn gray",
+      "Leaf margins burn and dry up giving a scorched appearance"
+    ],
+    "symptomsHindi": [
+      "पत्तियों पर छोटे गहरे बैंगनी धब्बे",
+      "धब्बे आपस में मिलकर बैंगनी धब्बे बनाते हैं",
+      "पत्तियों के किनारे झुलसे और सूखे हुए दिखते हैं"
+    ],
+    "culturalManagement": [
+      "Renovate strawberry beds after harvest by clipping old leaves",
+      "Ensure good drainage and straw mulching"
+    ],
+    "prevention": [
+      "Plant certified disease-resistant runners"
+    ]
+  },
+  {
+    "id": "strawberry_healthy",
+    "crop": "Strawberry",
+    "cropHindi": "स्ट्रॉबेरी",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Lush trifoliate green strawberry leaves"
+    ],
+    "symptomsHindi": [
+      "स्वस्थ हरी पत्तियां"
+    ],
+    "culturalManagement": [
+      "Straw mulching and drip irrigation."
+    ],
+    "prevention": [
+      "Routine inspection."
+    ]
+  },
+  {
+    "id": "tomato_bacterial_spot",
+    "crop": "Tomato",
+    "cropHindi": "टमाटर",
+    "disease": "Bacterial Spot (Xanthomonas spp.)",
+    "diseaseHindi": "टमाटर का बैक्टीरियल स्पॉट",
+    "severity": "High",
+    "symptoms": [
+      "Small dark brown water-soaked spots with yellow halos on foliage",
+      "Leaflets drop prematurely causing exposed fruit sunscald",
+      "Scabby raised black lesions on green fruits"
+    ],
+    "symptomsHindi": [
+      "पत्तियों पर पीले घेरे वाले छोटे गहरे भूरे धब्बे",
+      "पत्तियां समय से पहले गिर जाती हैं",
+      "फलों पर काले खुरदरे धब्बे"
+    ],
+    "culturalManagement": [
+      "Avoid overhead watering; use drip lines",
+      "Remove and destroy infected plant debris after harvest"
+    ],
+    "prevention": [
+      "Use disease-free certified seeds",
+      "Rotate with non-solanaceous crops"
+    ]
+  },
+  {
+    "id": "tomato_early_blight",
+    "crop": "Tomato",
+    "cropHindi": "टमाटर",
+    "disease": "Early Blight (Alternaria solani)",
+    "diseaseHindi": "टमाटर का अगेता झुलसा",
+    "severity": "Moderate",
+    "symptoms": [
+      "Dark brown circular spots with concentric target-board rings",
+      "Yellowing around lesions on mature lower leaves",
+      "Stem collar rot on young seedlings"
+    ],
+    "symptomsHindi": [
+      "चक्राकार रिंग वाले गहरे भूरे धब्बे (लक्ष्य बोर्ड)",
+      "पुरानी निचली पत्तियों पर धब्बों के आसपास पीलापन",
+      "तने का नीचे से सड़ना"
+    ],
+    "culturalManagement": [
+      "Prune lowest leaves to prevent ground contact and splash spread",
+      "Apply organic mulch around tomato plants"
+    ],
+    "prevention": [
+      "Practice 3-year crop rotation",
+      "Ensure proper plant staking"
+    ]
+  },
+  {
+    "id": "tomato_late_blight",
+    "crop": "Tomato",
+    "cropHindi": "टमाटर",
+    "disease": "Late Blight (Phytophthora infestans)",
+    "diseaseHindi": "टमाटर का पिछैता झुलसा",
+    "severity": "High",
+    "symptoms": [
+      "Large irregular water-soaked dark gray-brown patches on leaves and stems",
+      "White fine fungal mold visible on leaf undersides in wet conditions",
+      "Firm, greasy brown rot patches on green tomato fruits"
+    ],
+    "symptomsHindi": [
+      "पत्तियों और तनों पर पानी भरे गहरे धूसर-भूरे धब्बे",
+      "नम मौसम में पत्ती की निचली सतह पर सफेद फफूंद",
+      "फलों पर सख्त भूरा सड़न रोग"
+    ],
+    "culturalManagement": [
+      "Keep foliage completely dry; avoid evening watering",
+      "Remove and destroy blighted plants immediately"
+    ],
+    "prevention": [
+      "Plant late blight tolerant hybrids",
+      "Monitor cool wet weather warnings"
+    ]
+  },
+  {
+    "id": "tomato_leaf_mold",
+    "crop": "Tomato",
+    "cropHindi": "टमाटर",
+    "disease": "Leaf Mold (Passalora fulva)",
+    "diseaseHindi": "टमाटर का लीफ मोल्ड",
+    "severity": "Moderate",
+    "symptoms": [
+      "Pale green to yellow spots on upper leaf surfaces",
+      "Velvety olive-green to brown fungal growth underneath the leaf",
+      "Leaves wither and die; common in greenhouses or high humidity"
+    ],
+    "symptomsHindi": [
+      "पत्तियों की ऊपरी सतह पर हल्के हरे-पीले धब्बे",
+      "निचली सतह पर जैतूनी-भूरा मखमली फफूंद",
+      "पत्तियां सूखकर नष्ट हो जाती हैं"
+    ],
+    "culturalManagement": [
+      "Maximize greenhouse ventilation and air movement",
+      "Increase row spacing"
+    ],
+    "prevention": [
+      "Grow resistant tomato cultivars"
+    ]
+  },
+  {
+    "id": "tomato_septoria_leaf_spot",
+    "crop": "Tomato",
+    "cropHindi": "टमाटर",
+    "disease": "Septoria Leaf Spot (Septoria lycopersici)",
+    "diseaseHindi": "टमाटर का सेप्टोरिया पत्ती धब्बा",
+    "severity": "Moderate",
+    "symptoms": [
+      "Numerous small circular spots with dark borders and grayish centers",
+      "Tiny black specks (pycnidia) in center of mature spots",
+      "Progresses rapidly from bottom leaves upward"
+    ],
+    "symptomsHindi": [
+      "काले किनारे और भूरे केंद्र वाले अनेक छोटे गोल धब्बे",
+      "धब्बे के बीच में छोटे काले बिंदु",
+      "निचली पत्तियों से ऊपर की ओर तेजी से फैलता है"
+    ],
+    "culturalManagement": [
+      "Remove lower infected leaves promptly",
+      "Mulch soil bed surface"
+    ],
+    "prevention": [
+      "Clear all nightshade crop debris post harvest"
+    ]
+  },
+  {
+    "id": "tomato_spider_mites",
+    "crop": "Tomato",
+    "cropHindi": "टमाटर",
+    "disease": "Spider Mites (Tetranychus urticae)",
+    "diseaseHindi": "टमाटर की मकड़ी (स्पाइडर माइट्स)",
+    "severity": "Moderate",
+    "symptoms": [
+      "Fine yellow stippling or speckled dots on upper leaf surfaces",
+      "Silky fine webbing underneath leaves and shoot tips",
+      "Leaves dry out, turn bronze, and drop"
+    ],
+    "symptomsHindi": [
+      "पत्तियों की ऊपरी सतह पर छोटे पीले बारीक बिंदु",
+      "पत्तियों के नीचे बारीक रेशमी जाला",
+      "पत्तियां सूखकर कांस्य (ब्रांज) रंग की हो जाती हैं"
+    ],
+    "culturalManagement": [
+      "Hose down leaf undersides with strong water spray to dislodge mites",
+      "Avoid excessive dusty dry field conditions"
+    ],
+    "prevention": [
+      "Apply insecticidal soap or neem oil spray"
+    ]
+  },
+  {
+    "id": "tomato_target_spot",
+    "crop": "Tomato",
+    "cropHindi": "टमाटर",
+    "disease": "Target Spot (Corynespora cassiicola)",
+    "diseaseHindi": "टमाटर का टारगेट स्पॉट",
+    "severity": "Moderate",
+    "symptoms": [
+      "Small brown leaf spots enlarging into circular target-pattern lesions",
+      "Sunken crater-like spots on fruits",
+      "Defoliation under warm moist conditions"
+    ],
+    "symptomsHindi": [
+      "भूरे रंग के धब्बे जो चक्राकार निशाना (टारगेट) बनाते हैं",
+      "फलों पर धंसे हुए गड्ढेदार धब्बे",
+      "पत्तियों का झड़ना"
+    ],
+    "culturalManagement": [
+      "Maintain wide plant spacing",
+      "Clear weed hosts surrounding plot"
+    ],
+    "prevention": [
+      "Rotate with non-susceptible crops"
+    ]
+  },
+  {
+    "id": "tomato_yellow_leaf_curl_virus",
+    "crop": "Tomato",
+    "cropHindi": "टमाटर",
+    "disease": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "diseaseHindi": "टमाटर का येलो लीफ कर्ल वायरस",
+    "severity": "High",
+    "symptoms": [
+      "Upward curling and cupping of young leaflets",
+      "Interveinal yellowing (chlorosis) and reduced leaf size",
+      "Severe plant stunting and failure to set fruit"
+    ],
+    "symptomsHindi": [
+      "नई पत्तियों का ऊपर की ओर मुड़ना और कटोरी जैसा होना",
+      "नसों के बीच पीलापन और पत्तियों का छोटा होना",
+      "पौधे का बौना होना और फल न बनना"
+    ],
+    "culturalManagement": [
+      "Control silverleaf whitefly vectors using yellow sticky traps and net covers",
+      "Rogue out infected plants early"
+    ],
+    "prevention": [
+      "Plant TYLCV resistant/tolerant tomato varieties",
+      "Use fine mesh insect netting in nurseries"
+    ]
+  },
+  {
+    "id": "tomato_mosaic_virus",
+    "crop": "Tomato",
+    "cropHindi": "टमाटर",
+    "disease": "Tomato Mosaic Virus (ToMV)",
+    "diseaseHindi": "टमाटर का मोजेक वायरस",
+    "severity": "High",
+    "symptoms": [
+      "Light and dark green mottled mosaic pattern on foliage",
+      "Fern-like leaf stringing or malformation",
+      "Internal brown necrosis of fruit wall"
+    ],
+    "symptomsHindi": [
+      "पत्तियों पर हल्के और गहरे हरे रंग का चितकबरा (मोजेक) पैटर्न",
+      "पत्तियों का फर्न की तरह मुड़ना",
+      "फल के भीतर भूरापन"
+    ],
+    "culturalManagement": [
+      "Disinfect hands and tools with skim milk or trisodium phosphate before handling plants",
+      "Do not use tobacco products near tomato plants (virus spreads mechanically)"
+    ],
+    "prevention": [
+      "Sow certified ToMV-resistant seeds"
+    ]
+  },
+  {
+    "id": "tomato_healthy",
+    "crop": "Tomato",
+    "cropHindi": "टमाटर",
+    "disease": "Healthy Leaf (No Disease Detected)",
+    "diseaseHindi": "स्वस्थ पत्ती (कोई रोग नहीं)",
+    "severity": "None",
+    "symptoms": [
+      "Lush green vigorous compound leaves"
+    ],
+    "symptomsHindi": [
+      "हरी और स्वस्थ पत्तियां"
+    ],
+    "culturalManagement": [
+      "Staking, suckering, and drip irrigation."
+    ],
+    "prevention": [
+      "Routine foliage inspection."
+    ]
+  }
+]

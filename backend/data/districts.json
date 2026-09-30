@@ -1,0 +1,22 @@
+[
+  { "id": "gautam_buddha_nagar", "name": "Gautam Buddha Nagar (Noida)", "hindiName": "गौतम बुद्ध नगर (नोएडा)", "region": "Western UP" },
+  { "id": "ghaziabad", "name": "Ghaziabad", "hindiName": "गाजियाबाद", "region": "Western UP" },
+  { "id": "meerut", "name": "Meerut", "hindiName": "मेरठ", "region": "Western UP" },
+  { "id": "agra", "name": "Agra", "hindiName": "आगरा", "region": "Western UP" },
+  { "id": "aligarh", "name": "Aligarh", "hindiName": "अलीगढ़", "region": "Western UP" },
+  { "id": "lucknow", "name": "Lucknow", "hindiName": "लखनऊ", "region": "Central UP" },
+  { "id": "kanpur", "name": "Kanpur Nagar", "hindiName": "कानपुर नगर", "region": "Central UP" },
+  { "id": "prayagraj", "name": "Prayagraj (Allahabad)", "hindiName": "प्रयागराज", "region": "Eastern UP" },
+  { "id": "varanasi", "name": "Varanasi", "hindiName": "वाराणसी", "region": "Eastern UP" },
+  { "id": "gorakhpur", "name": "Gorakhpur", "hindiName": "गोरखपुर", "region": "Eastern UP" },
+  { "id": "bareilly", "name": "Bareilly", "hindiName": "बरेली", "region": "Rohilkhand" },
+  { "id": "moradabad", "name": "Moradabad", "hindiName": "मुरादाबाद", "region": "Rohilkhand" },
+  { "id": "saharanpur", "name": "Saharanpur", "hindiName": "सहारनपुर", "region": "Western UP" },
+  { "id": "ayodhya", "name": "Ayodhya", "hindiName": "अयोध्या", "region": "Central UP" },
+  { "id": "jhansi", "name": "Jhansi", "hindiName": "झांसी", "region": "Bundelkhand" },
+  { "id": "mathura", "name": "Mathura", "hindiName": "मथुरा", "region": "Western UP" },
+  { "id": "muzaffarnagar", "name": "Muzaffarnagar", "hindiName": "मुजफ्फरनगर", "region": "Western UP" },
+  { "id": "bijnor", "name": "Bijnor", "hindiName": "बिजनौर", "region": "Western UP" },
+  { "id": "farrukhabad", "name": "Farrukhabad", "hindiName": "फर्रुखाबाद", "region": "Central UP" },
+  { "id": "sitapur", "name": "Sitapur", "hindiName": "सीतापुर", "region": "Central UP" }
+]

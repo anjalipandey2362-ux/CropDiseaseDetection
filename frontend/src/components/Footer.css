@@ -1,0 +1,130 @@
+.footer-container {
+  background: #0f172a;
+  color: #94a3b8;
+  padding-top: 60px;
+  border-top: 1px solid rgba(226, 232, 240, 0.1);
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1.2fr;
+  gap: 40px;
+  padding-bottom: 50px;
+}
+
+.footer-brand-col {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.footer-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.footer-icon-bg {
+  width: 36px;
+  height: 36px;
+  background: linear-gradient(135deg, #16a34a, #15803d);
+  color: white;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-brand-name {
+  font-family: var(--font-heading);
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: white;
+}
+
+.footer-brand-name span {
+  color: #22c55e;
+}
+
+.footer-tagline {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #22c55e;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.footer-desc {
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+.footer-col-title {
+  color: white;
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.footer-links-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footer-links-list button {
+  background: transparent;
+  color: #94a3b8;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.footer-links-list button:hover {
+  color: #22c55e;
+}
+
+.footer-disclaimer-text {
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+.footer-secure-badge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+  background: rgba(34, 197, 94, 0.1);
+  border: 1px solid rgba(34, 197, 94, 0.2);
+  color: #4ade80;
+  padding: 8px 14px;
+  border-radius: var(--radius-full);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 24px 0;
+  font-size: 0.82rem;
+}
+
+.footer-bottom-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+@media (max-width: 768px) {
+  .footer-content {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .footer-bottom-inner {
+    flex-direction: column;
+    text-align: center;
+  }
+}

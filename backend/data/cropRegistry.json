@@ -1,0 +1,124 @@
+{
+  "crops": {
+    "wheat": {
+      "id": "wheat",
+      "displayName": "Wheat",
+      "hindiName": "गेहूं",
+      "category": "Cereal",
+      "diseaseModelSupported": true,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🌾"
+    },
+    "rice": {
+      "id": "rice",
+      "displayName": "Rice / Paddy",
+      "hindiName": "धान / चावल",
+      "category": "Cereal",
+      "diseaseModelSupported": true,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🍚"
+    },
+    "sugarcane": {
+      "id": "sugarcane",
+      "displayName": "Sugarcane",
+      "hindiName": "गन्ना",
+      "category": "Cash Crop",
+      "diseaseModelSupported": true,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🍬"
+    },
+    "potato": {
+      "id": "potato",
+      "displayName": "Potato",
+      "hindiName": "आलू",
+      "category": "Vegetable / Tuber",
+      "diseaseModelSupported": true,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🥔"
+    },
+    "maize": {
+      "id": "maize",
+      "displayName": "Maize",
+      "hindiName": "मक्का",
+      "category": "Cereal",
+      "diseaseModelSupported": true,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🌽"
+    },
+    "mustard": {
+      "id": "mustard",
+      "displayName": "Mustard",
+      "hindiName": "सरसों",
+      "category": "Oilseed",
+      "diseaseModelSupported": true,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🌻"
+    },
+    "chickpea": {
+      "id": "chickpea",
+      "displayName": "Chickpea / Gram",
+      "hindiName": "चना",
+      "category": "Pulse",
+      "diseaseModelSupported": true,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🫘"
+    },
+    "pigeon_pea": {
+      "id": "pigeon_pea",
+      "displayName": "Pigeon Pea / Arhar",
+      "hindiName": "अरहर",
+      "category": "Pulse",
+      "diseaseModelSupported": true,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🪵"
+    },
+    "lentil": {
+      "id": "lentil",
+      "displayName": "Lentil",
+      "hindiName": "मसूर",
+      "category": "Pulse",
+      "diseaseModelSupported": true,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🥣"
+    },
+    "pea": {
+      "id": "pea",
+      "displayName": "Pea",
+      "hindiName": "मटर",
+      "category": "Pulse / Vegetable",
+      "diseaseModelSupported": true,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🫛"
+    },
+    "apple": {
+      "id": "apple",
+      "displayName": "Apple",
+      "hindiName": "सेब",
+      "category": "Fruit",
+      "diseaseModelSupported": false,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🍎"
+    },
+    "tomato": {
+      "id": "tomato",
+      "displayName": "Tomato",
+      "hindiName": "टमाटर",
+      "category": "Vegetable",
+      "diseaseModelSupported": false,
+      "cropThreshold": 0.70,
+      "diseaseThreshold": 0.70,
+      "icon": "🍅"
+    }
+  }
+}

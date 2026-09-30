@@ -1,0 +1,152 @@
+[
+  {
+    "id": "wheat",
+    "name": "Wheat",
+    "hindiName": "गेहूं",
+    "category": "Cereal",
+    "season": "Rabi",
+    "icon": "🌾",
+    "description": "Major staple food crop of Uttar Pradesh, heavily cultivated across western and eastern UP plains.",
+    "priority": true
+  },
+  {
+    "id": "rice",
+    "name": "Rice / Paddy",
+    "hindiName": "धान / चावल",
+    "category": "Cereal",
+    "season": "Kharif",
+    "icon": "🍚",
+    "description": "Primary Kharif crop grown extensively in eastern UP, Terai region, and central districts.",
+    "priority": true
+  },
+  {
+    "id": "sugarcane",
+    "name": "Sugarcane",
+    "hindiName": "गन्ना",
+    "category": "Cash Crop",
+    "season": "Annual",
+    "icon": "🍬",
+    "description": "Uttar Pradesh is India's leading sugarcane producer, dominant in western UP and Terai belt.",
+    "priority": true
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "hindiName": "आलू",
+    "category": "Tuber / Vegetable",
+    "season": "Rabi",
+    "icon": "🥔",
+    "description": "Agra, Farrukhabad, and Kannauj regions in UP are major potato production hubs.",
+    "priority": true
+  },
+  {
+    "id": "maize",
+    "name": "Maize",
+    "hindiName": "मक्का",
+    "category": "Cereal",
+    "season": "Kharif / Rabi",
+    "icon": "🌽",
+    "description": "Widely grown cereal crop across central and eastern districts of UP.",
+    "priority": true
+  },
+  {
+    "id": "mustard",
+    "name": "Mustard",
+    "hindiName": "सरसों",
+    "category": "Oilseed",
+    "season": "Rabi",
+    "icon": "🌻",
+    "description": "Essential oilseed crop cultivated widely in Bundelkhand, western, and central UP.",
+    "priority": true
+  },
+  {
+    "id": "chickpea",
+    "name": "Chickpea / Gram",
+    "hindiName": "चना",
+    "category": "Pulse",
+    "season": "Rabi",
+    "icon": "🫘",
+    "description": "Important pulse crop grown predominantly in Bundelkhand and southern UP districts.",
+    "priority": true
+  },
+  {
+    "id": "pigeon_pea",
+    "name": "Pigeon Pea / Arhar",
+    "hindiName": "अरहर / तूर",
+    "category": "Pulse",
+    "season": "Kharif",
+    "icon": "🪵",
+    "description": "Major pulse crop cultivated in central, eastern, and southern regions of Uttar Pradesh.",
+    "priority": true
+  },
+  {
+    "id": "lentil",
+    "name": "Lentil",
+    "hindiName": "मसूर",
+    "category": "Pulse",
+    "season": "Rabi",
+    "icon": "🥣",
+    "description": "Vital pulse crop grown across flood plains and eastern UP districts.",
+    "priority": true
+  },
+  {
+    "id": "pea",
+    "name": "Pea",
+    "hindiName": "मटर",
+    "category": "Pulse / Vegetable",
+    "season": "Rabi",
+    "icon": "🫛",
+    "description": "Cultivated both for green vegetable pods and dry pulse across UP plains.",
+    "priority": true
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "hindiName": "टमाटर",
+    "category": "Vegetable",
+    "season": "Rabi / Summer",
+    "icon": "🍅",
+    "description": "Widely grown horticultural crop vulnerable to fungal blights and wilt.",
+    "priority": false
+  },
+  {
+    "id": "chili",
+    "name": "Chili",
+    "hindiName": "मिर्च",
+    "category": "Spice / Vegetable",
+    "season": "Kharif / Summer",
+    "icon": "🌶️",
+    "description": "Important spice crop susceptible to leaf curl virus and anthracnose.",
+    "priority": false
+  },
+  {
+    "id": "brinjal",
+    "name": "Brinjal / Eggplant",
+    "hindiName": "बैंगन",
+    "category": "Vegetable",
+    "season": "Round the Year",
+    "icon": "🍆",
+    "description": "Popular solanaceous vegetable grown across UP market gardens.",
+    "priority": false
+  },
+  {
+    "id": "okra",
+    "name": "Okra / Bhindi",
+    "hindiName": "भिंडी",
+    "category": "Vegetable",
+    "season": "Kharif / Summer",
+    "icon": "🥒",
+    "description": "Key commercial vegetable crop prone to yellow vein mosaic virus.",
+    "priority": false
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "hindiName": "आम",
+    "category": "Fruit / Commercial",
+    "season": "Perennial",
+    "icon": "🥭",
+    "description": "Malihabad (Lucknow) and Saharanpur are world-famous UP mango belts.",
+    "priority": false
+  }
+]
