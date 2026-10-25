@@ -108,6 +108,45 @@ CONFIDENCE_THRESHOLD=0.60
 
 ---
 
+## ☁️ Deploy the Streamlit App
+
+The project includes a standalone Streamlit interface in `streamlit_app.py`; it
+uses the existing PlantVillage predictor directly and does not require the React
+frontend, Node backend, or FastAPI service.
+
+1. Push this project directory to a GitHub repository.
+2. In [Streamlit Community Cloud](https://share.streamlit.io/), create an app
+   from that repository and set its main file path to
+   `react/CropDiseaseDetection/CropDiseaseDetection/streamlit_app.py` when using
+   the current `FSD1` repository root. If this project is the repository root,
+   use `streamlit_app.py`.
+3. Streamlit installs the dependencies from the root `requirements.txt`.
+4. Provide the trained `plantvillage_model.pth` weights. The weights are excluded
+   from Git, so either place them at
+   `ml-service/models/plantvillage_classifier/plantvillage_model.pth` before
+   deployment, or configure the following values in the app's Streamlit secrets:
+
+   ```toml
+   PLANTVILLAGE_MODEL_URL = "https://your-host/plantvillage_model.pth"
+   PLANTVILLAGE_MODEL_SHA256 = "64-character-file-checksum"
+   ```
+
+   Use a trusted HTTPS host and the SHA-256 checksum of the exact weights file.
+   Keep the existing `class_names.json` in the same model directory. The app
+   downloads the model only when the weights file is absent.
+
+Run the app locally from the project root:
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
+If the weights are not configured or cannot be loaded, the app reports the
+problem and disables analysis rather than showing a placeholder prediction.
+
+---
+
 ## 🛠️ Installation & Setup
 
 ### 1. Python ML Service Setup
